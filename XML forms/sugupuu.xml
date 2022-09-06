@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene synd="1926">
+  <nimi>Elizabeth II, Queen of England</nimi>
+  <synniaassta>1926</synniaassta>
+  <lapsed>
+    <inimene synd="1950">
+      <nimi>Anne, Princess Royal</nimi>
+      <synniaassta>1950</synniaassta>
+    </inimene>
+    <inimene synd="1948">
+      <nimi>Charles, Prince of Wales</nimi>
+      <synniaassta>1948</synniaassta>
+      <lapsed>
+        <inimene synd="1982">
+          <nimi>William, Duke of Campridge</nimi>
+          <synniaassta>1982</synniaassta>
+          <lapsed>
+            <inimene synd="2013">
+              <nimi>Prince George</nimi>
+              <synniaassta>2013</synniaassta>
+            </inimene>
+            <inimene synd="2015">
+              <nimi>Princess Charlotte</nimi>
+              <synniaassta>2015</synniaassta>
+            </inimene>
+            <inimene synd="2018">
+              <nimi>Prince Louiss</nimi>
+              <synniaassta>2018</synniaassta>
+            </inimene>
+          </lapsed>
+        </inimene>
+        <inimene synd="1984">
+          <nimi>Harry(Henry), Duke of Sussex</nimi>
+          <synniaassta>1984</synniaassta>
+          <lapsed>
+            <inimene synd="2021">
+              <nimi>Lilibet</nimi>
+              <synniaassta>2021</synniaassta>
+            </inimene>
+            <inimene synd="2019">
+              <nimi>Archie</nimi>
+              <synniaassta>2019</synniaassta>
+            </inimene>
+          </lapsed>
+        </inimene>
+      </lapsed>
+    </inimene>
+    <inimene synd="1960">
+      <nimi>Andrew, Duke of York</nimi>
+      <synniaassta>1960</synniaassta>
+    </inimene>
+    <inimene synd="1964">
+      <nimi>Edward, Earl of Wessex</nimi>
+      <synniaassta>1964</synniaassta>
+    </inimene>
+  </lapsed>
+</inimene>
